@@ -9,6 +9,6 @@
  1.HTML
  2.CSS
  
- This is the page https://anastasodyssea.github.io/Robotics-Club/
+ This is the project https://anastasodyssea.github.io/Robotics-Club/
  
  
