@@ -14,12 +14,6 @@
     }
     }
 
-@media screen and (min-width: 900px) {
-    #contactus{
-        font-size: 20px;
-    }
-    }
-
 @media screen and (min-width: 480px) {
         
         img{
@@ -96,8 +90,8 @@ main{
     height: 500px;
     background-repeat: no-repeat;
     background-size: contain;
-  text-align: right;
-  text-decoration: none;
+    text-align: right;
+    text-decoration: none;
  }
 
 #aboutus{
